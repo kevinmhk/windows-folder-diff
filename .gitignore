@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.venv/
+venv/
+.env
+diff_result.md
